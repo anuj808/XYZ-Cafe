@@ -3,7 +3,7 @@ import ReservationModal from "./ReservationModal";
 
 export default function FloatingButtons() {
   const [showModal, setShowModal] = useState(false);
-  const phone = "919876543210"; // ← Change to your WhatsApp number
+  const phone = "917668943946"; // ← Change to your WhatsApp number
   const msg = encodeURIComponent("Hi XYZ Café! I'd like to know more about your menu and reservations 😊");
 
   return (
